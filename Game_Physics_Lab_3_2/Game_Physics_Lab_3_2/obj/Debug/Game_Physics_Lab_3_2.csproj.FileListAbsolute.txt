@@ -1,0 +1,9 @@
+D:\VisualStudio\Game_Physics_Lab_3_2\Game_Physics_Lab_3_2\bin\Debug\Game_Physics_Lab_3_2.exe.config
+D:\VisualStudio\Game_Physics_Lab_3_2\Game_Physics_Lab_3_2\bin\Debug\Game_Physics_Lab_3_2.exe
+D:\VisualStudio\Game_Physics_Lab_3_2\Game_Physics_Lab_3_2\bin\Debug\Game_Physics_Lab_3_2.pdb
+D:\VisualStudio\Game_Physics_Lab_3_2\Game_Physics_Lab_3_2\obj\Debug\Game_Physics_Lab_3_2.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Game_Physics_Lab_3_2\Game_Physics_Lab_3_2\obj\Debug\Game_Physics_Lab_3_2.Form1.resources
+D:\VisualStudio\Game_Physics_Lab_3_2\Game_Physics_Lab_3_2\obj\Debug\Game_Physics_Lab_3_2.Properties.Resources.resources
+D:\VisualStudio\Game_Physics_Lab_3_2\Game_Physics_Lab_3_2\obj\Debug\Game_Physics_Lab_3_2.csproj.GenerateResource.Cache
+D:\VisualStudio\Game_Physics_Lab_3_2\Game_Physics_Lab_3_2\obj\Debug\Game_Physics_Lab_3_2.exe
+D:\VisualStudio\Game_Physics_Lab_3_2\Game_Physics_Lab_3_2\obj\Debug\Game_Physics_Lab_3_2.pdb
